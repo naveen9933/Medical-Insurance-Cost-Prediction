@@ -68,10 +68,3 @@ python insurance_cost_prediction.py
 ## Results
 
 The project aims to achieve accurate predictions of insurance costs based on the selected features. Various machine learning algorithms are evaluated to determine the best-performing model.
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Replace `your-username` with your GitHub username and customize the content as needed to better fit your project's details and structure.
-
-Feel free to add more sections like "Data Analysis", "Model Evaluation", "Conclusion", etc., based on your project's requirements.
